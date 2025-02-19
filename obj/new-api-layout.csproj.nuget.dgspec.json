@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\new-api-layout\\new-api-layout.csproj": {}
+    "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\Repository_N_UOW\\new-api-layout.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\new-api-layout\\new-api-layout.csproj": {
+    "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\Repository_N_UOW\\new-api-layout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\new-api-layout\\new-api-layout.csproj",
+        "projectUniqueName": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\Repository_N_UOW\\new-api-layout.csproj",
         "projectName": "new-api-layout",
-        "projectPath": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\new-api-layout\\new-api-layout.csproj",
+        "projectPath": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\Repository_N_UOW\\new-api-layout.csproj",
         "packagesPath": "C:\\Users\\Prageeth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\new-api-layout\\obj\\",
+        "outputPath": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\Repository_N_UOW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

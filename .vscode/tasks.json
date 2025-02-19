@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/new-api-layout.sln",
+                "${workspaceFolder}/Repository_N_UOW.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/new-api-layout.sln",
+                "${workspaceFolder}/Repository_N_UOW.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/new-api-layout.sln"
+                "${workspaceFolder}/Repository_N_UOW.sln"
             ],
             "problemMatcher": "$msCompile"
         }

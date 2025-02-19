@@ -3149,11 +3149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\new-api-layout\\new-api-layout.csproj",
-      "projectName": "new-api-layout",
-      "projectPath": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\new-api-layout\\new-api-layout.csproj",
+      "projectUniqueName": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\Repository_N_UOW\\WebApi.csproj",
+      "projectName": "WebApi",
+      "projectPath": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\Repository_N_UOW\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Prageeth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\new-api-layout\\obj\\",
+      "outputPath": "C:\\Users\\Prageeth\\Source\\Revise_DOT_NET\\Repository_N_UOW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

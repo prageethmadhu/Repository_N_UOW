@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "oQ6EsBXunGPENqbY08UwtEEDT1QspwzhxtyJcEo0QxQ=",
-  "Source": "new-api-layout",
-  "BasePath": "_content/new-api-layout",
+  "Hash": "3fzD1EelHVW7I8sZnXbFvVts4pyDK1lx9zGyE0YOAsI=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
