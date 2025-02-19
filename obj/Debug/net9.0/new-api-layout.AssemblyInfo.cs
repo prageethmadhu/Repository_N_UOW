@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("new-api-layout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ba0744628e40bd1c9e59a525f287449c02ce55b")]
 [assembly: System.Reflection.AssemblyProductAttribute("new-api-layout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("new-api-layout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
